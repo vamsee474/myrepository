@@ -6,7 +6,7 @@ public class JavaProgram
 {
     public static void main(String args[])
     {
-        int a, b, big;
+        int a=5 b=6, big;
         Scanner scan = new Scanner(System.in);
 		
         System.out.print("Enter Two Number : ");
